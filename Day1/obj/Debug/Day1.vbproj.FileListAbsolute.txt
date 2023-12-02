@@ -1,0 +1,12 @@
+D:\AOC_2023\AOC_2023\Day1\bin\Debug\Day1.exe.config
+D:\AOC_2023\AOC_2023\Day1\bin\Debug\Day1.exe
+D:\AOC_2023\AOC_2023\Day1\bin\Debug\Day1.pdb
+D:\AOC_2023\AOC_2023\Day1\bin\Debug\Day1.xml
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.vbproj.AssemblyReference.cache
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.vbproj.SuggestedBindingRedirects.cache
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.Resources.resources
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.vbproj.GenerateResource.cache
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.vbproj.CoreCompileInputs.cache
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.exe
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.xml
+D:\AOC_2023\AOC_2023\Day1\obj\Debug\Day1.pdb
